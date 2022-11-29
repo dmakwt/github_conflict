@@ -5,4 +5,4 @@
   - Dhari Alenezi
 
 - Students
-  - Khaled Alhendi
+  - Khaled Alhendo
