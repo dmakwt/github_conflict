@@ -6,4 +6,3 @@
 
 - Students
   - Khaled Alhendi
-  - Bibi Talal
